@@ -25,7 +25,7 @@ body {
 }
 
 .copy {
-  font-size: 0.2em !important;
+  font-size: 2.3vw !important;
 }
 
 .container-body {
@@ -61,8 +61,12 @@ body {
     font-size: 1.5vw;
   }
 
+  .copy {
+    font-size: 0.7vw !important;
+  }
+
   .pirata-wide {
-    font-size: 8vw;
+    font-size: 10vw;
   }
 
 }
