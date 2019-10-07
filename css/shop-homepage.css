@@ -10,9 +10,10 @@ body {
 .alert {
   background-color: yellow;
   width: 100%;
-  height: 3em;
+  height: 4em;
   display: flex;
   margin: auto;
+  align-items: center;
 }
 
 .alert-text {
@@ -20,11 +21,23 @@ body {
   margin: auto;
   box-sizing: border-box;
   color: rgb(50, 50, 0);
-  font-size: 0.5em;
+  font-size: 2.2vw;
 }
 
 .copy {
   font-size: 0.2em !important;
+}
+
+.container-body {
+  display: inline-flexbox !important;
+  margin: auto !important;
+  justify-content: center !important;
+}
+
+.container-center {
+  align-items: center !important;
+  margin: auto !important;
+  justify-content: center !important;
 }
 
 .cover {
@@ -38,7 +51,18 @@ body {
   font-family: 'Pirata One', cursive;
 }
 
-.pirata-13 {
+.pirata-wide {
   font-family: 'Pirata One', cursive;
   font-size: 13vw;
+}
+
+@media screen and (min-width: 800px) {
+  .alert-text {
+    font-size: 1.5vw;
+  }
+
+  .pirata-wide {
+    font-size: 8vw;
+  }
+
 }
