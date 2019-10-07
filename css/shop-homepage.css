@@ -1,0 +1,44 @@
+/*!
+ * Start Bootstrap - Shop Homepage (https://startbootstrap.com/template-overviews/shop-homepage)
+ * Copyright 2013-2019 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-shop-homepage/blob/master/LICENSE)
+ */
+body {
+  padding-top: 56px;
+}
+
+.alert {
+  background-color: yellow;
+  width: 100%;
+  height: 3em;
+  display: flex;
+  margin: auto;
+}
+
+.alert-text {
+  align-items: center;
+  margin: auto;
+  box-sizing: border-box;
+  color: rgb(50, 50, 0);
+  font-size: 0.5em;
+}
+
+.copy {
+  font-size: 0.2em !important;
+}
+
+.cover {
+  background-size: cover !important;
+  object-fit: cover !important;
+  height: 125px;
+  width: 100%;
+}
+
+.pirata {
+  font-family: 'Pirata One', cursive;
+}
+
+.pirata-13 {
+  font-family: 'Pirata One', cursive;
+  font-size: 13vw;
+}
