@@ -47,6 +47,12 @@ body {
   width: 100%;
 }
 
+.icon {
+  width: 18vw !important;
+  height: 18vw !important;
+  padding: 10px;
+}
+
 .pirata {
   font-family: 'Pirata One', cursive;
 }
@@ -54,6 +60,12 @@ body {
 .pirata-wide {
   font-family: 'Pirata One', cursive;
   font-size: 13vw;
+}
+
+.social-media {
+  display: flex;
+  justify-content: center;
+  padding: 10px;
 }
 
 @media screen and (min-width: 800px) {
@@ -65,8 +77,19 @@ body {
     font-size: 0.7vw !important;
   }
 
+  .icon {
+    width: 5vw !important;
+    height: 5vw !important;
+  }
+
   .pirata-wide {
     font-size: 10vw;
+  }
+
+  .social-media {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
   }
 
 }
