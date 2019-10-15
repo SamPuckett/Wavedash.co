@@ -6,7 +6,7 @@ function myFunction(arr) {
       var merchName = arr[i].name.toString();
       var merchTitle = arr[i].title.toString();
       var merchPhoto = arr[i].photo.toString();
-      var merchLink = arr[i].link.toString();
+      var merchLink = arr[i].teespring.toString();
       var merchGame = arr[i].game.toString();
       var merchDescription = arr[i].description.toString();
       var merchPrice = arr[i].price.toString();
