@@ -1,6 +1,17 @@
 var myArray = [
 
     {
+        "name": "game-and-watch",
+        "title": "Judgement",
+        "photo": "https://res.cloudinary.com/dnrbgmcm4/image/upload/c_scale,q_50,w_500/v1571113240/GandW-Shirt_pqu3u9.png",
+        "link": "https://www.redbubble.com/people/samwisegamg/works/41734020-judgement-game-and-watch?p=classic-tee&ref=available_products_swiper",
+        "game": "ultimate",
+        "description": "Do you Main Mr. Game & Watch? Always try to rock out on your opponents and land a 9 Judgement Hammer? If so, this shirt is exactly for you! Inspired by a popular rock album design, show up to your local tournament in style with this stylish Wavedash Apparel Tee!",
+        "price": "$19.99",
+        "order": "15"
+    },
+
+    {
         "name": "ness-ultimate",
         "title": "PK Fiya",
         "photo": "https://res.cloudinary.com/dnrbgmcm4/image/upload/c_scale,q_50,w_500/v1570471426/Ness-Shirt-White_hiuyix.png",
@@ -20,7 +31,7 @@ var myArray = [
         "description": "Do you main Fox McCloud in Smash Brothers Melee for the Gamecube!? While this shirt won't make you a better player, it will make you look a lot cooler if you lose!",
         "price": "$19.99",
         "order": "13"
-    }, 
+    },
 
     {
         "name": "falco-melee",
