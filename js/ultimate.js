@@ -14,7 +14,7 @@ function myFunction(arr) {
       //console.log(tempCo3);
 
       if(merchGame == 'ultimate') {
-        out += '<div class="col-lg-4 col-md-6 mb-4"> <div class="card h-100"> <a href="' + merchLink + '"><img class="card-img-top" src="' + merchPhoto + '" alt=""></a> <div class="card-body"> <h4 class="card-title"> <a href="' + merchLink + '">' + merchTitle + '</a> </h4> <h5>' + merchPrice + '</h5> <p class="card-text">' + merchDescription + '</p> </div> <div class="card-footer"> <small class="text-muted">&#9733; &#9733; &#9733; &#9733; &#9733;</small> </div> </div></div>';
+        out += '<div class="col-lg-4 col-md-6 mb-4" data-aos="fade-in"> <div class="card h-100"> <a href="' + merchLink + '"><img class="card-img-top" src="' + merchPhoto + '" alt=""></a> <div class="card-body"> <h4 class="card-title"> <a href="' + merchLink + '">' + merchTitle + '</a> </h4> <h5>' + merchPrice + '</h5> <p class="card-text">' + merchDescription + '</p> </div> <div class="card-footer"> <small class="text-muted">&#9733; &#9733; &#9733; &#9733; &#9733;</small> </div> </div></div>';
       }
 
     }
