@@ -9,7 +9,8 @@ var myArray = [
         "game": "ultimate",
         "description": "Do you Main Mr. Game & Watch? Always try to rock out on your opponents and land a 9 Judgement Hammer? If so, this shirt is exactly for you! Inspired by a popular rock album design, show up to your local tournament in style with this stylish Wavedash Apparel Tee!",
         "price": "$19.99",
-        "order": "15"
+        "order": "15",
+        "alt": "Shirt of game and watch's hammer and red oil similar to kill them all"
     },
 
     {
@@ -21,7 +22,8 @@ var myArray = [
         "game": "ultimate",
         "description": "Show off your moves in this 'IGOR' style Ness T-Shirt!",
         "price": "$19.99",
-        "order": "14"
+        "order": "14",
+        "alt": "Shirt of Ness in the style of Igor's album cover."
     },
 
     {
@@ -33,7 +35,8 @@ var myArray = [
         "game": "melee",
         "description": "Do you main Fox McCloud in Smash Brothers Melee for the Gamecube!? While this shirt won't make you a better player, it will make you look a lot cooler if you lose!",
         "price": "$19.99",
-        "order": "13"
+        "order": "13",
+        "alt": "Shirt of Fox in the style of a bootleg retro rapper shirt."
     },
 
     {
@@ -45,7 +48,8 @@ var myArray = [
         "game": "melee",
         "description": "Do you main Falco in super smash bros melee for the nintendo gamecube? Put on this shirt while you stomp on your opponents or even look stylish while you go 0-2 in pools at your locals!",
         "price": "$19.99",
-        "order": "12"
+        "order": "12",
+        "alt": ""
     },
 
     {
@@ -57,7 +61,8 @@ var myArray = [
         "game": "ultimate",
         "description": "Do you main Simon Belmont in super smash bros ultimate for the nintendo switch? Put on this shirt while you stomp on your opponents or even look stylish while you go 0-2 in pools at your locals!",
         "price": "$19.99",
-        "order": "11"
+        "order": "11",
+        "alt": ""
     },
 
     {
@@ -69,7 +74,8 @@ var myArray = [
         "game": "ultimate",
         "description": "Get yourself this super soft shirt to show off your love for young link and smash bros ultimate for the nintendo switch!",
         "price": "$19.99",
-        "order": "10"
+        "order": "10",
+        "alt": ""
     },
 
     {
@@ -81,7 +87,8 @@ var myArray = [
         "game": "ultimate",
         "description": "Do you main King Dedede in super smash bros ultimate for the nintendo switch? Put on this shirt while you stomp on your opponents or even look stylish while you go 0-2 in pools at your locals!",
         "price": "$19.99",
-        "order": "9"
+        "order": "9",
+        "alt": ""
     },
 
     {
@@ -93,7 +100,8 @@ var myArray = [
         "game": "ultimate",
         "description": "Do you main Kibry in super smash bros ultimate for the nintendo switch? Put on this shirt while you stomp on your opponents or even look stylish while you go 0-2 in pools at your locals!",
         "price": "$19.99",
-        "order": "8"
+        "order": "8",
+        "alt": ""
     },
 
     {
@@ -105,7 +113,8 @@ var myArray = [
         "game": "ultimate",
         "description": "Do you main Banjo-Kazooie in super smash bros ultimate for the nintendo switch? Put on this shirt while you stomp on your opponents or even look stylish while you go 0-2 in pools at your locals!",
         "price": "$19.99",
-        "order": "7"
+        "order": "7",
+        "alt": ""
     },
 
     {
@@ -117,7 +126,8 @@ var myArray = [
         "game": "ultimate",
         "description": "If you are a Ridley main in Smash Brothers Ultimate for the nintendo switch this is your shirt!",
         "price": "$19.99",
-        "order": "6"
+        "order": "6",
+        "alt": ""
     },
 
     {
@@ -129,7 +139,8 @@ var myArray = [
         "game": "ultimate",
         "description": "Do you main Wolf in super smash bros ultimate for the nintendo switch? Put on this shirt while you stomp on your opponents or even look stylish while you go 0-2 in pools at your locals!",
         "price": "$19.99",
-        "order": "5"
+        "order": "5",
+        "alt": ""
     },
 
     {
@@ -141,7 +152,8 @@ var myArray = [
         "game": "ultimate",
         "description": "Do you main Hero in super smash bros ultimate for the nintendo switch? Put on this shirt while you stomp on your opponents or even look stylish while you go 0-2 in pools at your locals!",
         "price": "$19.99",
-        "order": "4"
+        "order": "4",
+        "alt": ""
     },
 
     {
@@ -153,7 +165,8 @@ var myArray = [
         "game": "melee",
         "description": "Style on your friends in Super Smash Brothers Melee for the Nintendo Gamecube with the double cup ness fit! Inspired by bootleg rapper shirts from back in the day! May not be able to increase the knock-back of your PK Fire, but, will definitely increase your street cred!",
         "price": "$19.99",
-        "order": "3"
+        "order": "3",
+        "alt": ""
     },
 
     {
@@ -165,7 +178,8 @@ var myArray = [
         "game": "melee",
         "description": "Want to style on your friends both in game and out of game? This shirt is for you! If you're a smash bros melee player for the nintendo gamecube and play falcon, look no further!",
         "price": "$19.99",
-        "order": "2"
+        "order": "2",
+        "alt": ""
     },
 
     {
@@ -177,7 +191,8 @@ var myArray = [
         "game": "melee",
         "description": "Show off your moves in this vintage style Captain Falcon T-Shirt!",
         "price": "$19.99",
-        "order": "1"
+        "order": "1",
+        "alt": ""
     },
 
 ];
